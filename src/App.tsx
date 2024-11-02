@@ -1,5 +1,7 @@
+import ProfilePage from '@/pages/ProfilePage';
+
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return <ProfilePage />;
 }
 
 export default App;
